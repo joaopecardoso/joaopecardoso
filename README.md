@@ -1,16 +1,13 @@
-### Hi there 👋
+### Salve! Eu sou o João Pedro Cardoso!
 
-<!--
-**joaopecardoso/joaopecardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 My research interest lie in Computational Materials Science, mainly focused on thermodynamics, phase diagram and superconductivity.
+- 🌱 Undergraduate project that correlates computer calculation methods with the physics of materials engineering.
+- 💪 Team merber of computEEL.
+- 📫 How to reach me: email: cardoso.joaopedro@usp.br / https://computeel.org/computeel/team/
+- 😄 Pronouns: He/him
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/joaopecardoso/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopecardoso&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopecardoso&layout=compact&langs_count=16&theme=merko"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
