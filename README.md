@@ -18,5 +18,8 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
-  </div>
+</div>
   
+<div>
+  ![Snake animation](https://github.com/joaopecardoso/joaopecardoso/blob/output/github-contribution-grid-snake.svg)
+  </div>
