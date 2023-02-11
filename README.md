@@ -1,6 +1,6 @@
 ### Salve! Eu sou o João Pedro Cardoso!
 
-- 🚀 My research interest lie in Computational Materials Science, mainly focused on thermodynamics, phase diagram and superconductivity.
+- 🚀 My research interests lie in Computational Materials Science, mainly focused on thermodynamics, phase diagram and superconductivity.
 - 🌱 Undergraduate project that correlates computer calculation methods with the physics of materials engineering.
 - 💪 Team merber of computEEL.
 - 📫 How to reach me: email: cardoso.joaopedro@usp.br / https://computeel.org/computeel/team/
